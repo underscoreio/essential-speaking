@@ -5,7 +5,7 @@ by [Dave Gurnell](dave)
 Slides and notes on speaking at tech conferences,
 originally created for speaker training sessions for 
 [Underscore's](underscore) [New Speaker Programme](nsap) for 
-[Scala Exchange 2014](scalax).
+[Scala Exchange](scalax).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
 <img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
